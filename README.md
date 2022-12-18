@@ -39,7 +39,8 @@ class CustomerAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT:
-![OUTPUT](./images/web.png)
+![web](https://user-images.githubusercontent.com/118541897/208302258-daf411f8-c932-41b1-8936-78cf03cf5ba3.png)
+
 
 
 ## RESULT:
