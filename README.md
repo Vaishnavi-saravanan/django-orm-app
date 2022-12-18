@@ -7,7 +7,6 @@ To develop a Django application to store and retrieve data from a database using
 ![ENTITY](./images/entity.png)
 
 ## DESIGN STEP:
-
 ### STEP 1:
 Create a new Django project using "django-admin startproject",get into the project's terminal and use "python3 manage.py startapp" command.
 
