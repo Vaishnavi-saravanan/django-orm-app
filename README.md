@@ -21,7 +21,6 @@ Register the models with the Django admin site. In admin.py under app folder, re
 ```
 from django.db import models
 
-
 # Create your models here. 
 from django.db import models
 from django.contrib import admin
